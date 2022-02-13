@@ -21,6 +21,11 @@ h1{
 
 p{
    text-align: justify;
+   margin-bottom: 50px;
+}
+
+.margin{
+    margin-top: 50px;
 }
 
 .explore-button{
@@ -30,7 +35,7 @@ p{
     padding: 9px 17px;
     border-radius: 6px;
     font-weight: 700;
-   
+    
     
 }
 
@@ -49,4 +54,9 @@ p{
 
 .sec-one{
     display: flex;
+}
+
+.sec-two{
+    text-align: center;
+    font-size: 35px;
 }

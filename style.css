@@ -18,6 +18,9 @@ h1{
     color: orange;
    
 }
+#purple-color{
+    color: rgb(10, 2, 32);
+}
 
 p{
    text-align: justify;
@@ -56,7 +59,32 @@ p{
     display: flex;
 }
 
-.sec-two{
+.sec-two {
     text-align: center;
     font-size: 35px;
+    font-weight: 700;
+
 }
+
+.flexible-container{
+    display: flex;
+}
+
+.div-mission{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(173, 221, 230);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+
+.div-mission p{
+   font-size: small;
+}
+
+.div-mission img{
+    width: 50%;
+}
+

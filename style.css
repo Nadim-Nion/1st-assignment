@@ -107,6 +107,27 @@ p{
     background-image: url(mission-2022-main/images/shapes/dream-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+ 
 }
 
+.sec-four{
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 200px;
+}
+
+.footer-class{
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+}
+
+.last-sec{
+    background-color: blueviolet;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
 
